@@ -33,4 +33,4 @@ I am a Data Analyst with an **Engineering background**, specializing in high-vol
 *   **Techniques:** ETL Pipelines, Dimensional Modeling, A/B Testing, Root Cause Analysis.
 *   **Domain Focus:** E-Commerce, Healthcare, HR Analytics, Operations.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/selimnajaf/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/selimnajaf-data-analyst/)
