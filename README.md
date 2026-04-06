@@ -9,7 +9,7 @@ I specialize in predictive modeling, scalable Object-Oriented ML pipelines, and 
 
 ### 🏆 Featured Projects
 
-*   **[🤖 Kapital Bank HR RAG Assistant](#)**: Enterprise-grade LLM pipeline using **LangChain, ChromaDB, and Mistral-7B** to automate internal HR policy queries.
+*   **[🤖 Bank HR RAG Assistant](https://github.com/SelimNajaf/Bank-HR-Assistant-RAG-Pipeline)**: Enterprise-grade LLM pipeline using **LangChain, ChromaDB, and Mistral-7B** to automate internal HR policy queries.
 *   **[💳 Credit Card Fraud Detection](https://github.com/SelimNajaf/Credit-Card-Fraud-Detection)**: Tackled extreme class imbalance (0.17% fraud) by optimizing PR-AUC. Deployed an efficient inference API via **LightGBM & FastAPI**.
 *   **[🏦 Bank Credit Scorecard Engine](https://github.com/SelimNajaf/Bank-Credit-Scorecard)**: Built an interpretable FinTech risk model utilizing **WOE/IV** and custom Object-Oriented pipeline architecture.
 *   **[📉 Bank Customer Churn Predictor](https://github.com/SelimNajaf/Bank-Customer-Churn)**: Leakage-proof ML pipeline with custom `scikit-learn` transformers. Threshold tuning successfully captured 90% of actual churners.
